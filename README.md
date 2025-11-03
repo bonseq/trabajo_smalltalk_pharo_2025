@@ -29,6 +29,13 @@ Su evolución depende del estado de sus 8 celdas vecinas y sigue las siguientes 
 | **JuegoGUI** | Vista/Controlador | Conecta la lógica con la interfaz Tkinter. |
 
 ### 🧱 Clases principales (🗣️)
+
+| Clase | Rol | Descripción |
+|--------|-----|-------------|
+| **Tablero** | Modelo | Contiene la grilla y aplica las reglas de evolución. |
+| **JuegoGUI** | Vista/Controlador | Conecta la lógica con la interfaz Tkinter. |
+
+
 ---
 
 ## 🚀 Ejecución
